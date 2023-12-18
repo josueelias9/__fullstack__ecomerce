@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T16:51:51.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TIyDzKBT5q9j9oxd0gGA" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T01:14:29.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VbyBbsxl6wr6Ez5HknXD" version="22.1.11" type="github">
   <diagram name="Página-1" id="JWLegUShalc6kZQy0lzp">
-    <mxGraphModel dx="2754" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3020" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,35 +299,206 @@
         <mxCell id="u9vqp3SSJvQ1Rymgl-xH-98" value="multivalued atributte" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="415" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JbURDo0wk9qGa0IlZSIL-1" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;scrum artifacts&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="885" width="270" height="30" as="geometry" />
+        <mxCell id="JbURDo0wk9qGa0IlZSIL-3" value="product backlog item" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="140" y="1720" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JbURDo0wk9qGa0IlZSIL-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;product backlog&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="960" width="220" height="30" as="geometry" />
+        <mxCell id="JbURDo0wk9qGa0IlZSIL-4" value="as an user&lt;br&gt;I want to compare products with ease without asking for help&lt;br&gt;so that I dont waste my time" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1760" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbURDo0wk9qGa0IlZSIL-3" value="product backlog item" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="1050" width="150" height="30" as="geometry" />
+        <mxCell id="JbURDo0wk9qGa0IlZSIL-7" value="product owner" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1380" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JbURDo0wk9qGa0IlZSIL-4" value="as an user&lt;br&gt;I want to monitor all my expenses&lt;br&gt;so that I dont get poor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="1090" width="150" height="60" as="geometry" />
+        <mxCell id="JbURDo0wk9qGa0IlZSIL-8" value="as a user&lt;br&gt;I want to buy cheap things&lt;br&gt;so that I can have money for other things" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1680" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbURDo0wk9qGa0IlZSIL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbURDo0wk9qGa0IlZSIL-7" target="JbURDo0wk9qGa0IlZSIL-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JbURDo0wk9qGa0IlZSIL-11" value="developers" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1380" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JbURDo0wk9qGa0IlZSIL-7" value="product owner" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="780" width="30" height="30" as="geometry" />
+        <mxCell id="JbURDo0wk9qGa0IlZSIL-12" value="scrum master" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="390" y="1380" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JbURDo0wk9qGa0IlZSIL-8" value="as an user&lt;br&gt;I want to monitor all my expenses&lt;br&gt;so that I dont get poor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="1010" width="150" height="60" as="geometry" />
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-2" value="as the owner&lt;br&gt;I want to earn as much money as posible" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1860" width="260" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="JbURDo0wk9qGa0IlZSIL-10" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;scrum team&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="725" width="270" height="30" as="geometry" />
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-6" value="refinement" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="1750" as="sourcePoint" />
+            <mxPoint x="620" y="1520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="JbURDo0wk9qGa0IlZSIL-11" value="product developer" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="780" width="30" height="30" as="geometry" />
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;sprint 1&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1400" width="460" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JbURDo0wk9qGa0IlZSIL-12" value="scrum master" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="780" width="30" height="30" as="geometry" />
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-10" value="as the owner I want my page to be very beautiful&lt;br&gt;so that customer enjoy their experience buying" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1520" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-11" value="as the owner&lt;br&gt;I want the page to be fast&lt;br&gt;so that customer dont get mad while buying" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1600" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-12" value="developers" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-16" value="what" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="988.5" y="1640" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-18" value="how" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1271" y="1640" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;sprint planning&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1010" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-23" value="atifacts" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1000" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1050" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-25" value="scrum team" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1040" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1090" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-27" value="scrum events" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1080" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1130" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-29" value="commitments" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1170" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-31" value="values" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-37" value="others" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-38" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679.57" y="1840" as="sourcePoint" />
+            <mxPoint x="679.57" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-39" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;sprint goal&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-40" value="design with figma" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-41" value="use some template" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1760" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-42" value="use React" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1200.5" y="1790" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-45" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;daily scrum&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1620" width="99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-46" value="meet with cusromer to get feedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1810" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-47" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="1860" as="sourcePoint" />
+            <mxPoint x="1390" y="1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-49" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1485" y="1870" as="sourcePoint" />
+            <mxPoint x="1485" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-51" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;product backlog&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1440" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-52" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;sprint backlog&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1560" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-53" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;increment&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1582.5" y="1720" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-55" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;sprint review&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1560" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-57" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;definition of done&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1555" y="1640" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-58" value="stakeholder" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-59" value="product owner" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1665" y="1460" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-60" value="developers" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="1430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-61" value="scrum master" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1665" y="1400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-62" value="stakeholder" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="1490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-68" value="as a customer&amp;nbsp;&lt;br&gt;I want to be able to use my credit card and yape tu buy items" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="1920" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-69" value="as the owner I want my page to be very beautiful&lt;br&gt;so that customer enjoy their experience buying" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1760" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-70" value="find out how to conect with yape" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1960" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-71" value="find out how to conect with a credit card" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1974" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-72" value="create&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="2020" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-73" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="1320" as="sourcePoint" />
+            <mxPoint x="1070" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-75" value="&lt;ul style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;sprint goal: define how the page is gonna look like&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;name: first sprint&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;duratio: 1 wweek&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="1467.5" width="190" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-76" value="a non functional page that gives the user an idea of how his page is gonna look like" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1795" y="1645" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-79" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 24px;&quot;&gt;overal goal&lt;/span&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-80" value="as a customer&amp;nbsp;&lt;br&gt;I want to be able to use my credit card and yape tu buy items" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="902" y="1960" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-81" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;sprint 2&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1880" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-82" value="product owner" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="775" y="1520" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-83" value="developers" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="715" y="1490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-84" value="scrum master" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#b85450;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="775" y="1460" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-86" value="sprint backlog item" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1780" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8V6VL3CPB_oYSLeEB4I-87" value="an ecomerce page that everyone use" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="955" y="1230" width="190" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
